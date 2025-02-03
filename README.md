@@ -1,15 +1,14 @@
-## Hi, I’m Altynbek 👋  
+### Hi, I’m Altynbek 👋  
+
 
 
 🚀 PhD Researcher in Deep Learning for Single-Cell Biology and Cancer Research 
 
-⚙️ Daily tools: `.py`, `torch`, `scikit-learn`,`R`, `bash`  
+* ⚙️ Daily tools: `.py`, `torch`, `scikit-learn`,`R`, `bash`  
+* 🧬 Passionate about AI and Cancer Research
+* 💡 Open to collaborating on projects related to foundation models in biomedicine  
 
-🧬 Passionate about AI and Cancer Research
-
-💡 Open to collaborating on projects related to **foundation models in biomedicine**  
-
-🌍 Let's Connect and build something interesting! [LinkedIn](https://www.linkedin.com/in/altynbek-zhubanchaliyev-624b34189/)]  
+🌍 Let's Connect and build something interesting! [LinkedIn](https://www.linkedin.com/in/altynbek-zhubanchaliyev-624b34189/)
 
 
 
