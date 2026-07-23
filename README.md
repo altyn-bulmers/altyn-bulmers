@@ -2,7 +2,7 @@
 
 
 
-PhD Researcher in Deep Learning for Single-Cell Biology and Cancer Research 
+PhD Researcher in Machine Learning for Single-Cell Biology and Cancer Research 
 
 * ⚙️ Daily tools: `.py`, `torch`, `scikit-learn`,`R`, `bash`  
 * 🧬 Passionate about AI and Cancer Research
